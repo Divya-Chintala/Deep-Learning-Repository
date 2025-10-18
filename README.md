@@ -1,13 +1,12 @@
 # Deep Learning Repository
 
-Welcome to the **Deep Learning Repository** a collection of hands-on projects, fine-tuning experiments, and annotated implementations of foundational deep learning architectures.  
-This repository demonstrates applications of neural networks across computer vision and NLP domains using frameworks like **TensorFlow**, **PyTorch**, and **Hugging Face Transformers**.
+Welcome to the **Deep Learning Repository** a collection of hands-on projects, fine-tuning experiments, and annotated implementations of foundational deep learning architectures. This repository demonstrates applications of neural networks across computer vision and NLP domains using frameworks like **TensorFlow**, **PyTorch**, and **Hugging Face Transformers**.
 
 ---
 
 
 
-### AlexNet /
+### AlexNet 
 **Project:** *Annotated AlexNet — ImageNet Classification with Deep Convolutional Neural Networks*  
 **Description:**  
 A complete breakdown and implementation of the **AlexNet** architecture that revolutionized computer vision in 2012.  
@@ -19,11 +18,11 @@ Includes detailed annotations, layer-by-layer explanations, and a re-implementat
 - Mini ImageNet dataset experiment (16-class classification)  
 - Discussion of ReLU, overlapping pooling, and regularization techniques  
 
- **Reference Document:** `Alexnet Doc.pdf` — full technical explanation with code snippets and diagrams
+
 
 ---
 
-### Neural_Nets/
+### Neural_Nets
 **Project:** *Classical and Deep Neural Network Implementations*  
 **Description:**  
 Contains experimental notebooks and scripts exploring:
@@ -34,7 +33,7 @@ Contains experimental notebooks and scripts exploring:
 
 ---
 
-### PEFT_FineTuning/
+### PEFT_FineTuning
 **Project:** *Parameter-Efficient Fine-Tuning (PEFT) Experiments*  
 **Description:**  
 Practical experiments applying **PEFT methods** for adapting large language models efficiently using fewer parameters.  
