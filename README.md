@@ -50,7 +50,9 @@ Includes tasks like summarization, NER, and dialogue fine-tuning.
 - Python, TensorFlow, PyTorch  
 - Hugging Face Transformers, Datasets, PEFT  
 - Keras, NumPy, Matplotlib  
-- Git LFS (for model checkpoints & large artifacts)
+- ResNet50
+- FLAN T5
+
 
 ---
 
