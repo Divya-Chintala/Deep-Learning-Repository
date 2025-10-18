@@ -1,0 +1,5 @@
+.env
+venv/
+DPLenv/
+PEFT_FineTuning/flan-dialogue-summary-checkpoint
+PEFT_FineTuning/dialogue-summary-training-results.csv
